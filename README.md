@@ -1,6 +1,6 @@
 # My shopping List
 
-* [My Shopping List](file:///C:/Users/Rosu/Documents/GitHub/Dynamic/main.html)
+* [My Shopping List](http://127.0.0.1:5500/main.html)
 
 ## Dog Selector
 
